@@ -1,0 +1,41 @@
+h1{font-size:30px;
+text-align:center;
+color:rgb(255, 255, 255)}
+body {background-color: rgb(129, 0, 0);}
+.kaste
+{display:inline-table;
+background:rgb(243, 240, 240);
+width: 550px;
+height:200px;
+border:2px solid rgb(14, 0, 0)}
+h2{font-size:20px;
+text-align:center;
+color:rgb(77, 3, 3)}
+h3{font-size:15px;
+text-align:left;
+color:rgb(65, 4, 4)}
+
+h4{font-size:20px;
+text-align:center;
+color:rgb(65, 1, 1)}
+h5{font-size:20px;
+text-align:center;
+color:rgb(233, 188, 188)}
+.kaste3
+{display:flexbox;
+background:rgb(116, 2, 2);
+width: 2000px;
+height:1000px;
+border:1px solid rgb(109, 6, 6)}
+.kaste2
+{display:inline-table;
+background:rgb(118, 1, 1);
+width: 2000px;
+height:150px;
+border:2px solid rgb(14, 0, 0)}
+.kaste8
+{display:inline-table;
+background:rgb(243, 232, 232);
+width: 100px;
+height:100px;
+border:2px solid rgb(249, 239, 239)}
